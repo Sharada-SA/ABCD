@@ -4,3 +4,7 @@ def A():
 def B():
     return b
 
+def C():
+    return c
+
+
