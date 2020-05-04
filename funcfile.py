@@ -7,4 +7,5 @@ def B():
 def C():
     return c
 
-
+def D():
+    return d
